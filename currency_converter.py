@@ -1,7 +1,7 @@
 #######################################################
 # Currency Converter
 #
-# A simple inheritance project for currency conversion
+# A simple project for currency conversion
 #
 # Name: Maureen Muthengi
 # Section: 04
