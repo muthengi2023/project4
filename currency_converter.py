@@ -79,3 +79,8 @@ if __name__ == "__main__":
         print(f"Historical rate in {historical_year}: {historical_rate}")
     else:
         print(f"No historical rate found for {historical_year}")
+
+    #reference https://dev.to/praise002/20-exciting-python-project-ideas-3la9
+    #https://www.geeksforgeeks.org/currency-converter-in-python/
+    #https://www.w3schools.in/python/examples/real-time-currency-converter
+

@@ -45,3 +45,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+#reference
+# https://larryriddle.agnesscott.org/ifs/siertri/siertri.htm
+#https://mathigon.org/course/fractals/sierpinski
